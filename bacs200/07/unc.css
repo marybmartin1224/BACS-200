@@ -1,0 +1,12 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: black;
+    border: 1px solid gray;
+    background-color: lightpink;
+}
+
+a {
+    color: deeppink;
