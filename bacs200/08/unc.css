@@ -8,7 +8,7 @@ body {
 
 article {
     border: 1px solid pink;
-    box-shadow: 2px 2px 5px pink
+    box-shadow: 2px 2px 5px purple;
     margin: 3em;
     padding: 1em;
 }
@@ -24,7 +24,7 @@ h1 {
     margin: 20px;
     padding: 30px;
     color: orchid;
-    background-color: lightpink
+    background-color: lightpink;
     border: 5px solid pink;
     text-align: center;
     box-shadow: 2px 2px 5px pink
@@ -32,7 +32,7 @@ h1 {
 
 h2 {
     color: pink
-    background-color: white
+    background-color:purple;
     border: 2px pink
     text-align: center;
     margin: 10px 20px;
@@ -47,8 +47,8 @@ h4 {
 }
 
 header {
-    border: 5px solid #F6B018;
-    background-color: #0E3D65;
+    border: 5px solid blue
+    background-color: blue
     font-family: sans-serif;
     padding: 1.5em;
 }
@@ -87,7 +87,7 @@ header img {
 
 
 hr {
-    border: 4px solid pink
+    border: 4px pink
 }
 
 input {
@@ -113,7 +113,7 @@ p {
 pre {
     border: 1px solid #F6B018;
     border-left: 3px solid pink
-    border-right: 3px solid #F6B018;
+    border-right: 3px solid pink
     background-color: #f0f0f0;
     margin-left: 3em;
     margin-right: 3em;
@@ -124,3 +124,4 @@ textarea {
     width: 90%;
     margin: auto;
 }
+a{color:lightpink
