@@ -16,7 +16,7 @@ header {
 
 main {
     border: solid 3px darkblue;
-    background-color: lightcyan;
+    background-color: darkslateblue;
     font-family: Cursive, Lucida Console;
     border-radius: 25px;
     width: 900px;
@@ -32,7 +32,7 @@ h1 {
 }
 
 aside {
-    background-color: lightcyan;
+    background-color: darkslateblue;
     border: solid 2px;
     padding-right: 300px;
     float: right
